@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="imageyolo">
+    <file>image/2page.png</file>
+    <file>image/3page.png</file>
+    <file>image/1page.png</file>
+  </qresource>
+</RCC>
